@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app",
+        "freefrp.net",
+        "www.omdbapi.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "betacloud",
+        "xiaoya.pro",
+        "zerotier.com",
+        "xiaoyaliu"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "auth.docker.io",
+        "hub.docker.com",
+        "registry-1.docker.io",
+        "000719.xyz",
+        "googleapis.com",
+        "googleapis.cn"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "23.94.44.22/24"
+      ]
+    }
+  ]
+}
