@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN,frp.104300.xyz
+  - DOMAIN,openapi.alipan.com
+  - DOMAIN,www.pushplus.plus
+  - DOMAIN,d.metacubex.one
+  - DOMAIN,api.xhofe.top
+  - DOMAIN,www.right.com.cn
+  - DOMAIN,chat.tinycms.xyz
+  - DOMAIN,metacubexd.pages.dev
+  - DOMAIN,stable.dl.unraid.net
+  - DOMAIN-KEYWORD,argotunnel.com
+  - DOMAIN_SUFFIX,cloud.189.cn
+  - DOMAIN_SUFFIX,mfiles.maokebing.com
+  - DOMAIN_SUFFIX,pool.ntp.org
+  - DOMAIN_SUFFIX,argotunnel.com
+  - IP-CIDR,127.0.0.0/8
