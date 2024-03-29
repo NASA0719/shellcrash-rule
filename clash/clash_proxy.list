@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-KEYWORD,betacloud
+  - DOMAIN-KEYWORD,xiaoya.pro
+  - DOMAIN-KEYWORD,zerotier.com
+  - DOMAIN-KEYWORD,xiaoyaliu
+  - DOMAIN-KEYWORD,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
+  - DOMAIN-KEYWORD,chat.tinycms.xyz
+  - DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
+  - DOMAIN,freefrp.net
+  - DOMAIN,www.omdbapi.com
+  - DOMAIN_SUFFIX,auth.docker.io
+  - DOMAIN_SUFFIX,hub.docker.com
+  - DOMAIN_SUFFIX,registry-1.docker.io
+  - DOMAIN_SUFFIX,000719.xyz
+  - DOMAIN_SUFFIX,googleapis.com
+  - DOMAIN_SUFFIX,googleapis.cn
+  - IP-CIDR,23.94.44.22/24
