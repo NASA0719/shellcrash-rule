@@ -13,4 +13,4 @@ payload:
   - DOMAIN_SUFFIX,000719.xyz
   - DOMAIN_SUFFIX,googleapis.com
   - DOMAIN_SUFFIX,googleapis.cn
-  - IP-CIDR,23.94.44.22/24
+  - IP-CIDR,23.94.44.22/25
