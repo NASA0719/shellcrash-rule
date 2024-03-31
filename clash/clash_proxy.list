@@ -7,7 +7,7 @@ payload:
   - DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
   - DOMAIN,freefrp.net
   - DOMAIN,www.omdbapi.com
- - DOMAIN,api.trakt.tv
+  - DOMAIN,api.trakt.tv
   - DOMAIN_SUFFIX,auth.docker.io
   - DOMAIN_SUFFIX,hub.docker.com
   - DOMAIN_SUFFIX,registry-1.docker.io
