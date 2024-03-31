@@ -8,6 +8,12 @@ payload:
   - DOMAIN,chat.tinycms.xyz
   - DOMAIN,metacubexd.pages.dev
   - DOMAIN,stable.dl.unraid.net
+  - DOMAIN,tunnel.ddnsto.com
+  - DOMAIN,tunnel.kooldns.cn
+  - DOMAIN,tunnel.tocmcc.cn
+  - DOMAIN,www.kooldns.cn
+  - DOMAIN,www.tocmcc.cn
+  - DOMAIN,www.ddnsto.com
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN_SUFFIX,cloud.189.cn
   - DOMAIN_SUFFIX,mfiles.maokebing.com
