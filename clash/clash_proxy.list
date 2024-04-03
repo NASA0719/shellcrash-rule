@@ -8,6 +8,7 @@ payload:
   - DOMAIN,freefrp.net
   - DOMAIN,www.omdbapi.com
   - DOMAIN,api.trakt.tv
+  - DOMAIN,api.bgm.tv
   - DOMAIN_SUFFIX,auth.docker.io
   - DOMAIN_SUFFIX,hub.docker.com
   - DOMAIN_SUFFIX,registry-1.docker.io
