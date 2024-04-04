@@ -16,8 +16,8 @@ payload:
   - DOMAIN,www.ddnsto.com
   - DOMAIN,frp.maya2012.com
   - DOMAIN-KEYWORD,argotunnel.com
-  - DOMAIN_SUFFIX,cloud.189.cn
-  - DOMAIN_SUFFIX,mfiles.maokebing.com
-  - DOMAIN_SUFFIX,pool.ntp.org
-  - DOMAIN_SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,cloud.189.cn
+  - DOMAIN-SUFFIX,mfiles.maokebing.com
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,argotunnel.com
   - IP-CIDR,127.0.0.0/8
