@@ -9,10 +9,10 @@ payload:
   - DOMAIN,www.omdbapi.com
   - DOMAIN,api.trakt.tv
   - DOMAIN,api.bgm.tv
-  - DOMAIN_SUFFIX,auth.docker.io
-  - DOMAIN_SUFFIX,hub.docker.com
-  - DOMAIN_SUFFIX,registry-1.docker.io
-  - DOMAIN_SUFFIX,000719.xyz
-  - DOMAIN_SUFFIX,googleapis.com
-  - DOMAIN_SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,auth.docker.io
+  - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,000719.xyz
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,googleapis.cn
   - IP-CIDR,23.94.44.22/25
