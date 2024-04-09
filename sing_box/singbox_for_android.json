@@ -188,7 +188,14 @@
         "format": "binary",
         "path": "./ruleset/cnip.srs",
         "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cnip.srs"
-      }
+      },
+      {
+        "tag": "applications",
+        "type": "remote",
+        "format": "binary",
+        "path": "./ruleset/applications.srs",
+        "url": "https://fastly.jsdelivr.net/gh/DustinWin/ruleset_geodata@sing-box-ruleset/applications.srs",
+      },
     ],
     "final": "🐟 漏网之鱼",
     "auto_detect_interface": true,
