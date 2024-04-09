@@ -9,6 +9,7 @@ payload:
   - DOMAIN,www.omdbapi.com
   - DOMAIN,api.trakt.tv
   - DOMAIN,api.bgm.tv
+  - DOMAIN,private.omdbapi.com
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
