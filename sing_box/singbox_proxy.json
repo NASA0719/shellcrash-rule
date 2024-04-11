@@ -26,12 +26,6 @@
         "registry-1.docker.io",
         "googleapis.com",
         "googleapis.cn"
-        "000719.xyz",
-      ]
-    },
-    {
-      "ip_cidr": [
-        "23.94.44.22/24"
       ]
     }
   ]
