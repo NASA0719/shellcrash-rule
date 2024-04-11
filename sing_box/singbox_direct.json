@@ -24,7 +24,13 @@
         "cloud.189.cn",
         "mfiles.maokebing.com",
         "pool.ntp.org",
-        "argotunnel.com"
+        "argotunnel.com",
+        "000719.xyz"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "23.94.44.22/24"
       ]
     }
   ]
