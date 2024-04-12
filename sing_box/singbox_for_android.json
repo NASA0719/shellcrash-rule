@@ -332,9 +332,7 @@
         "type": "remote",
         "format": "binary",
         "path": "./singbox_rules/cnip.srs",
-        "url": "https://raw.githubusercontent.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/cnip.srs",
-        "download_detour": "DIRECT",
-        "update_interval": "24h"
+        "url": "https://raw.githubusercontent.com/gh/DustinWin/ruleset_geodata@sing-box-ruleset/cnip.srs"
       }
     ],
     "final": "🐟 漏网之鱼"
