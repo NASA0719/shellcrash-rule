@@ -12,9 +12,7 @@
       { "clash_mode": "Direct", "server": [ "dns_alidns", "dns_dnspod" ] },
       { "clash_mode": "Global", "server": "dns_fakeip", "rewrite_ttl": 1 },
       { "rule_set": [ "ads" ], "server": "dns_block" },
-      { "domain_keyword": ".", "invert": true, "query_type": [ "A", "AAAA" ], "server": [ "dns_alidns", "dns_dnspod" ] },
-      { "protocol": [ "stun" ], "query_type": [ "A", "AAAA" ], "server": [ "dns_alidns", "dns_dnspod" ] },
-      { "rule_set": [ "microsoft-cn", "apple-cn", "google-cn", "games-cn", "cn", "private" ], "query_type": [ "A", "AAAA" ], "server": [ "dns_alidns", "dns_dnspod" ] },
+      { "rule_set": [ "microsoft-cn", "apple-cn", "google-cn", "games-cn", "fakeip-filter", "private" ], "query_type": [ "A", "AAAA" ], "server": [ "dns_alidns", "dns_dnspod" ] },
       { "query_type": [ "A", "AAAA" ], "server": "dns_fakeip", "rewrite_ttl": 1 }
     ],
     "final": [ "dns_alidns", "dns_dnspod" ],
@@ -24,7 +22,17 @@
     "fakeip": { "enabled": true, "inet4_range": "198.18.0.0/15", "inet6_range": "fc00::/18" }
   },
   "inbounds": [
-    { "tag": "tun-in", "type": "tun", "inet4_address": "172.19.0.1/30", "inet6_address": "fdfe:dcba:9876::1/126", "auto_route": true, "strict_route": true, "stack": "mixed", "sniff": true, "always_resolve_udp": true }
+    {
+      "tag": "tun-in",
+      "type": "tun",
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fdfe:dcba:9876::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "stack": "mixed",
+      "sniff": true,
+      "always_resolve_udp": true
+    }
   ],
   "outbounds": [
     { "tag": "🚀 节点选择", "type": "selector", "outbounds": [ "🇭🇰 香港节点", "🇹🇼 台湾节点", "🇯🇵 日本节点", "🇰🇷 韩国节点", "🇸🇬 新加坡节点", "🇺🇸 美国节点" ] },
@@ -51,8 +59,7 @@
     { "tag": "🇯🇵 日本节点", "type": "urltest", "tolerance": 50, "providers": [ "🛫 牛牛机场节点" ], "includes": [ "🇯🇵" ] },
     { "tag": "🇰🇷 韩国节点", "type": "urltest", "tolerance": 50, "providers": [ "🛫 牛牛机场节点" ], "includes": [ "🇰🇷" ] },
     { "tag": "🇸🇬 新加坡节点", "type": "urltest", "tolerance": 50, "providers": [ "🛫 牛牛机场节点" ], "includes": [ "🇸🇬" ] },
-    { "tag": "🇺🇸 美国节点", "type": "urltest", "tolerance": 50, "providers": [ "🛫 牛牛机场节点" ], "includes": [ "🇺🇸" ] }
-  ],
+    { "tag": "🇺🇸 美国节点", "type": "urltest", "tolerance": 50, "providers": [ "🛫 牛牛机场节点" ], "includes": [ "🇺🇸" ] } ],
   "outbound_providers": [
     {
       "tag": "🛫 牛牛机场节点",
@@ -91,13 +98,13 @@
       { "clash_mode": "Global", "outbound": "GLOBAL" },
       { "clash_mode": "Direct", "outbound": "DIRECT" },
       { "rule_set": [ "ads" ], "outbound": "🛑 广告拦截" },
+      { "rule_set": [ "applications" ], "outbound": "🖥️ 直连软件" },
       { "rule_set": [ "private" ], "outbound": "🔒 私有网络" },
       { "rule_set": [ "microsoft-cn" ], "outbound": "Ⓜ️ 微软服务" },
       { "rule_set": [ "apple-cn" ], "outbound": "🍎 苹果服务" },
       { "rule_set": [ "google-cn" ], "outbound": "📢 谷歌服务" },
       { "rule_set": [ "games-cn" ], "outbound": "🎮 游戏平台" },
       { "rule_set": [ "networktest" ], "outbound": "📈 网络测试" },
-      { "rule_set": [ "applications" ], "outbound": "🖥️ 直连软件" },
       { "rule_set": [ "proxy" ], "outbound": "🪜 代理域名" },
       { "rule_set": [ "cn" ], "outbound": "🔗 直连域名" },
       { "rule_set": [ "telegramip" ], "outbound": "📲 电报消息", "skip_resolve": true },
@@ -111,6 +118,13 @@
         "format": "binary",
         "path": "./ruleset/ads.srs",
         "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/ads.srs"
+      },
+      {
+        "tag": "applications",
+        "type": "remote",
+        "format": "binary",
+        "path": "./ruleset/applications.srs",
+        "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/applications.srs"
       },
       {
         "tag": "private",
@@ -146,6 +160,13 @@
         "format": "binary",
         "path": "./ruleset/games-cn.srs",
         "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/games-cn.srs"
+      },
+      {
+        "tag": "fakeip-filter",
+        "type": "remote",
+        "format": "binary",
+        "path": "./ruleset/fakeip-filter.srs",
+        "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/fakeip-filter.srs"
       },
       {
         "tag": "networktest",
@@ -188,14 +209,7 @@
         "format": "binary",
         "path": "./ruleset/cnip.srs",
         "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cnip.srs"
-      },
-      {
-        "tag": "applications",
-        "type": "remote",
-        "format": "binary",
-        "path": "./ruleset/applications.srs",
-        "url": "https://fastly.jsdelivr.net/gh/DustinWin/ruleset_geodata@sing-box-ruleset/applications.srs",
-      },
+      }
     ],
     "final": "🐟 漏网之鱼",
     "auto_detect_interface": true,
