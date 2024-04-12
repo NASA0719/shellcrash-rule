@@ -2,7 +2,7 @@
   "log": { "level": "error", "timestamp": true },
   "experimental": {
     "clash_api": {
-      "external_controller": "127.0.0.1:9999",
+      "external_controller": "127.0.0.1:9090",
       "external_ui": "ui",
       "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
       "secret": "",
@@ -69,7 +69,7 @@
     { "tag": "🔒 私有网络", "type": "selector", "outbounds": [ "🎯 全球直连" ] },
     { "tag": "🛑 广告拦截", "type": "selector", "outbounds": [ "REJECT", "DIRECT" ] },
     { "tag": "🎯 全球直连", "type": "selector", "outbounds": [ "DIRECT" ] },
-    { "tag": "Global", "type": "selector", "outbounds": [ "🇭🇰 香港节点", "🇸🇬 新加坡节点", "🇰🇷 韩国节点", "🇯🇵 日本节点", "🇺🇸 美国节点", "🇹🇼 台湾节点", "其他地区", "亏本机场", "🎯 全球直连" ] },
+    { "tag": "GLOBAL", "type": "selector", "outbounds": [ "🇭🇰 香港节点", "🇸🇬 新加坡节点", "🇰🇷 韩国节点", "🇯🇵 日本节点", "🇺🇸 美国节点", "🇹🇼 台湾节点", "其他地区", "亏本机场", "🎯 全球直连" ] },
     { "tag": "REJECT", "type": "block" },
     { "tag": "DIRECT", "type": "direct" },
     { "tag": "dns-out", "type": "dns" },
@@ -119,7 +119,7 @@
   "route": {
     "rules": [
       { "protocol": "dns", "outbound": "dns-out" },
-      { "clash_mode": "global", "outbound": "Global" },
+      { "clash_mode": "global", "outbound": "GLOBAL" },
       { "clash_mode": "direct", "outbound": "DIRECT" },
       { "rule_set": "ads", "outbound": "🛑 广告拦截" },
       { "domain": [ "clash.razord.top", "yacd.metacubex.one", "yacd.haishan.me", "d.metacubex.one", "metacubexd.pages.dev" ], "outbound": "DIRECT" },
