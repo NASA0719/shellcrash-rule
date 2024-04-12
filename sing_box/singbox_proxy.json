@@ -8,7 +8,8 @@
         "www.omdbapi.com",
         "api.trakt.tv",
         "api.bgm.tv",
-        "private.omdbapi.com"
+        "private.omdbapi.com",
+        "mirror.ghproxy.com"
       ]
     },
     {
