@@ -234,6 +234,13 @@
         "update_interval": "24h"
       },
       {
+        "tag": "fakeip-filter",
+        "type": "remote",
+        "format": "binary",
+        "path": "./ruleset/fakeip-filter.srs",
+        "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/fakeip-filter.srs"
+      },
+      {
         "tag": "netflix",
         "type": "remote",
         "format": "binary",
