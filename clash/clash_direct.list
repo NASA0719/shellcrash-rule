@@ -20,5 +20,7 @@ payload:
   - DOMAIN-SUFFIX,mfiles.maokebing.com
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,000719.xyz
+  - IP-CIDR,107.173.199.239/25
   - IP-CIDR,127.0.0.0/8
 
