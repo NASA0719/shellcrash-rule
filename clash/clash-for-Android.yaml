@@ -41,7 +41,7 @@ use1: &use1
 proxy-providers:
   牛牛机场节点: # 代理集名称，不能重复
     url: "https://www.e300daniu.com/api/v1/client/subscribe?token=b0933cb6b1ebc1e5c3463b952cec91d0&flag=meta" # 类型为 http是则需要配置
-    path: ./proxy_providers/牛牛机场节点.yaml # 文件路径，不可重复,可选，不填写时会使用MD5作为此文件的文件名
+    path: ./牛牛机场节点.yaml # 文件路径，不可重复,可选，不填写时会使用MD5作为此文件的文件名
     # dialer-proxy: proxy # 为代理集合内所有节点附加dialer-proxy
     # filter: "(?i)港|hk|hongkong|hong kong" # 筛选满足关键词或正则表达式的节点
     exclude-filter: X1.2|X1.3|X1.4|X1.5|X3 # 排除满足关键词或正则表达式的节点
@@ -50,7 +50,7 @@ proxy-providers:
 
   亏本机场节点:
     url: "https://knjc.cfd/api/v1/client/subscribe?token=93fbc809dc15f9fda045ab2ea50dd4ce&flag=meta"
-    path: ./proxy_providers/亏本机场节点.yaml
+    path: ./亏本机场节点.yaml
     type: http
     interval: 1800
     health-check:
@@ -60,7 +60,7 @@ proxy-providers:
 
 mode: rule
 ipv6: true
-log-level: silent
+log-level: error
 allow-lan: true
 mixed-port: 7890
 external-controller-tls: 127.0.0.1:9999
