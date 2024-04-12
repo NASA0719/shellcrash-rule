@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
-  - DOMAIN-SUFFIX,000719.xyz
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
-  - IP-CIDR,23.94.44.22/25
+
