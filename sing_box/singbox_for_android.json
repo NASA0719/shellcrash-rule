@@ -1,13 +1,12 @@
 {
   "log": { "level": "error", "timestamp": true },
-  "experimental": { "cache_file": { "enabled": true, "cache_id": "", "store_fakeip": false },
+  "experimental": {
     "clash_api": {
-      "external_controller": "0.0.0.0:9999",
+      "external_controller": "127.0.0.1:9999",
       "external_ui": "ui",
-      "external_ui_download_url": "https://mirror.ghproxy.com/https://github.com/MetaCubeX/metacubexd/archive/refs/heads-pages.zip",
-      "external_ui_download_detour": "direct",
+      "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
       "secret": "",
-      "default_mode": "rule"
+      "default_mode": "Rule"
     }
   },
   "dns": {
