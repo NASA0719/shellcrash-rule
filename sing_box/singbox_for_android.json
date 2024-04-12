@@ -128,10 +128,7 @@
       { "rule_set": "my-direct", "outbound": "🎯 全球直连" },
       { "rule_set": "my-proxy", "outbound": "🚀 节点选择" },
       { "rule_set": "ads", "outbound": "🛑 广告拦截" },
-      // {
-      //   "rule_set": "applications",
-      //   "outbound": "🖥️ 直连软件"
-      // },
+      { "rule_set": "applications", "outbound": "🖥️ 直连软件" },
       { "rule_set": "private", "outbound": "🔒 私有网络" },
       { "rule_set": "microsoft-cn", "outbound": "Ⓜ️ 微软服务" },
       { "rule_set": "apple-cn", "outbound": "🍎 苹果服务" },
