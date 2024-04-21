@@ -8,8 +8,7 @@
         "www.omdbapi.com",
         "api.trakt.tv",
         "api.bgm.tv",
-        "private.omdbapi.com",
-        "docker.xiaoya.pro",
+        "private.omdbapi.com"
       ]
     },
     {
@@ -25,7 +24,8 @@
         "hub.docker.com",
         "registry-1.docker.io",
         "googleapis.com",
-        "googleapis.cn"
+        "googleapis.cn",
+        "xiaoya.pro"
       ]
     }
   ]
