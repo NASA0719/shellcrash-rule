@@ -8,13 +8,13 @@
         "www.omdbapi.com",
         "api.trakt.tv",
         "api.bgm.tv",
-        "private.omdbapi.com"
+        "private.omdbapi.com",
+        "docker.xiaoya.pro",
       ]
     },
     {
       "domain_keyword": [
         "betacloud",
-        "xiaoya.pro",
         "zerotier.com",
         "xiaoyaliu"
       ]
