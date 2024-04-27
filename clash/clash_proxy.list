@@ -7,7 +7,6 @@ payload:
   - DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
   - DOMAIN,freefrp.net
   - DOMAIN,www.omdbapi.com
-  - DOMAIN,www.mirror.ghproxy.com
   - DOMAIN,api.trakt.tv
   - DOMAIN,api.bgm.tv
   - DOMAIN,private.omdbapi.com
