@@ -18,9 +18,6 @@ payload:
   - DOMAIN,curl ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
-  - DOMAIN,emby.xiaoya.pro
-  - DOMAIN,icyou.eu.org
-  - DOMAIN,lanyuewan.cn
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
