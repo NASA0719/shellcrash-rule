@@ -10,6 +10,9 @@ payload:
   - DOMAIN,api.trakt.tv
   - DOMAIN,api.bgm.tv
   - DOMAIN,private.omdbapi.com
+  - DOMAIN,emby.xiaoya.pro
+  - DOMAIN,icyou.eu.org
+  - DOMAIN,lanyuewan.cn
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
