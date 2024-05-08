@@ -15,7 +15,7 @@ payload:
   - DOMAIN,www.tocmcc.cn
   - DOMAIN,www.ddnsto.com
   - DOMAIN,frp.maya2012.com
-  - DOMAIN,curl ipapi.co
+  - DOMAIN,ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
   - DOMAIN,emby.xiaoya.pro
