@@ -18,6 +18,8 @@ payload:
   - DOMAIN-SUFFIX,registry-1.docker.io
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,000719.xyz
+  - IP-CIDR,107.173.199.239/25
 
 
 
