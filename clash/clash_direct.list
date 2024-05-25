@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,opensubtitles.com
+  - DOMAIN-SUFFIX,000719.xyz
   - IP-CIDR,103.28.68.83/25
   - IP-CIDR,127.0.0.0/8
-
+  - IP-CIDR,107.173.199.239/25
