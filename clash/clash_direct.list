@@ -25,6 +25,7 @@ payload:
   - DOMAIN,emby.raydoom.tk
   - DOMAIN,emby.kaiserver.uk
   - DOMAIN,embyxiaoya.laogl.top
+  - DOMAIN,emby-data.raydoom.tk
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
