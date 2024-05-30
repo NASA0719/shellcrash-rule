@@ -6,6 +6,7 @@ payload:
   - DOMAIN,chat.tinycms.xyz
   - DOMAIN,metacubexd.pages.dev
   - DOMAIN,stable.dl.unraid.net
+  # ddnsto
   - DOMAIN,tunnel.ddnsto.com
   - DOMAIN,tunnel.kooldns.cn
   - DOMAIN,tunnel.tocmcc.cn
@@ -16,6 +17,7 @@ payload:
   - DOMAIN,ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
+  # 小雅emby服务器
   - DOMAIN,emby.xiaoya.pro
   - DOMAIN,icyou.eu.org
   - DOMAIN,lanyuewan.cn
@@ -24,7 +26,11 @@ payload:
   - DOMAIN,emby.kaiserver.uk
   - DOMAIN,embyxiaoya.laogl.top
   - DOMAIN,emby-data.raydoom.tk
-  - DOMAIN,t2.geigei.gq
+  - DOMAIN,emby-data.5168168.xyz
+  - DOMAIN,emby-data.ermaokj.com
+  - DOMAIN,emby-data.tmxy.pp.ua
+  - DOMAIN,emby-data.poxi1221.eu.org
+  
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
@@ -32,31 +38,6 @@ payload:
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,opensubtitles.com
   - DOMAIN-SUFFIX,000719.xyz
+  - IP-CIDR,107.173.199.239
   - IP-CIDR,103.28.68.83/25
   - IP-CIDR,127.0.0.0/8
-  - IP-CIDR,107.173.199.239/25
-#  - IP-CIDR,173.245.48.0/20
-#  - IP-CIDR,103.21.244.0/22
-#  - IP-CIDR,103.22.200.0/22
-#  - IP-CIDR,103.31.4.0/22
-#  - IP-CIDR,141.101.64.0/18
-#  - IP-CIDR,108.162.192.0/18
-#  - IP-CIDR,190.93.240.0/20
-#  - IP-CIDR,188.114.96.0/20
-#  - IP-CIDR,197.234.240.0/22
-#  - IP-CIDR,198.41.128.0/17
-#  - IP-CIDR,162.158.0.0/15
-#  - IP-CIDR,104.16.0.0/12
-#  - IP-CIDR,172.64.0.0/17
-#  - IP-CIDR,172.64.128.0/18
-#  - IP-CIDR,172.64.192.0/19
-#  - IP-CIDR,172.64.224.0/22
-#  - IP-CIDR,172.64.229.0/24
-#  - IP-CIDR,172.64.230.0/23
-#  - IP-CIDR,172.64.232.0/21
-#  - IP-CIDR,172.64.240.0/21
-#  - IP-CIDR,172.64.248.0/21
-#  - IP-CIDR,172.65.0.0/16
-#  - IP-CIDR,172.66.0.0/16
-#  - IP-CIDR,172.67.0.0/16
-#  - IP-CIDR,131.0.72.0/22
