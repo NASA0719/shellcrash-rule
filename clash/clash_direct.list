@@ -30,7 +30,9 @@ payload:
   - DOMAIN,emby-data.ermaokj.com
   - DOMAIN,emby-data.tmxy.pp.ua
   - DOMAIN,emby-data.poxi1221.eu.org
-  
+  - DOMAIN,emby-data.ermaokj.cn
+  - DOMAIN,emby-data.bdbd.fun
+
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
