@@ -32,6 +32,7 @@ payload:
   - DOMAIN,emby-data.poxi1221.eu.org
   - DOMAIN,emby-data.ermaokj.cn
   - DOMAIN,emby-data.bdbd.fun
+  - DOMAIN,emby-data.wwwh.eu.org
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
@@ -39,5 +40,9 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,opensubtitles.com
+  # VPS
+  - DOMAIN-SUFFIX,000719.xyz
+  - IP-CIDR,107.173.199.239
+
   - IP-CIDR,103.28.68.83/25
   - IP-CIDR,127.0.0.0/8
