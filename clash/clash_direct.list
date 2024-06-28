@@ -8,9 +8,9 @@ payload:
   - DOMAIN,stable.dl.unraid.net
   - DOMAIN,controlplane.tailscale.com
 
-  - DOMAIN-SUFFIX,api.themoviedb.org
-  - DOMAIN-SUFFIX,www.themoviedb.org
-  - DOMAIN-SUFFIX,image.tmdb.org
+  - DOMAIN,api.themoviedb.org
+  - DOMAIN,www.themoviedb.org
+  - DOMAIN,image.tmdb.org
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
