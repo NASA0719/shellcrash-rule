@@ -8,10 +8,6 @@ payload:
   - DOMAIN,stable.dl.unraid.net
   - DOMAIN,controlplane.tailscale.com
 
-  - DOMAIN,api.themoviedb.org
-  - DOMAIN,www.themoviedb.org
-  - DOMAIN,image.tmdb.org
-
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
   - DOMAIN,tunnel.kooldns.cn
