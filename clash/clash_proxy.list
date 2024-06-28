@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,registry-1.docker.io
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,api.telegram.org
   - DOMAIN-SUFFIX,fanart.tv
 
 
