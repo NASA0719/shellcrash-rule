@@ -6,10 +6,11 @@ payload:
   - DOMAIN,chat.tinycms.xyz
   - DOMAIN,metacubexd.pages.dev
   - DOMAIN,stable.dl.unraid.net
+  - DOMAIN,controlplane.tailscale.com
 
-  - DOMAIN,api.themoviedb.org
-  - DOMAIN,www.themoviedb.org
-  - DOMAIN,image.tmdb.org
+  - DOMAIN-SUFFIX,api.themoviedb.org
+  - DOMAIN-SUFFIX,www.themoviedb.org
+  - DOMAIN-SUFFIX,image.tmdb.org
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
