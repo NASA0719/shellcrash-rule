@@ -3,15 +3,39 @@
   "rules": [
     {
       "domain": [
-        "frp.104300.xyz",
-        "openapi.alipan.com",
         "www.pushplus.plus",
         "d.metacubex.one",
         "api.xhofe.top",
+        "www.right.com.cn",
         "chat.tinycms.xyz",
         "metacubexd.pages.dev",
         "stable.dl.unraid.net",
-        "metacubex.github.io"
+        "controlplane.tailscale.com",
+        "tunnel.ddnsto.com",
+        "tunnel.kooldns.cn",
+        "tunnel.tocmcc.cn",
+        "www.kooldns.cn",
+        "www.tocmcc.cn",
+        "www.ddnsto.com",
+        "frp.maya2012.com",
+        "ipapi.co",
+        "ip.sb",
+        "ip-api.com",
+        "emby.xiaoya.pro",
+        "icyou.eu.org",
+        "lanyuewan.cn",
+        "emby.8.net.co",
+        "emby.raydoom.tk",
+        "emby.kaiserver.uk",
+        "embyxiaoya.laogl.top",
+        "emby-data.raydoom.tk",
+        "emby-data.5168168.xyz",
+        "emby-data.ermaokj.com",
+        "emby-data.tmxy.pp.ua",
+        "emby-data.poxi1221.eu.org",
+        "emby-data.ermaokj.cn",
+        "emby-data.bdbd.fun",
+        "emby-data.wwwh.eu.org"
       ]
     },
     {
@@ -25,15 +49,15 @@
         "mfiles.maokebing.com",
         "pool.ntp.org",
         "argotunnel.com",
-        "000719.xyz",
-        "dxz.plus"
-
+        "opensubtitles.com",
+        "000719.xyz"
       ]
     },
     {
       "ip_cidr": [
-        "107.173.199.239/25",
-        "103.28.68.83/25"
+        "107.173.199.239",
+        "103.28.68.83/25",
+        "127.0.0.0/8"
       ]
     }
   ]
