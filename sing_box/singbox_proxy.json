@@ -14,8 +14,7 @@
     {
       "domain_keyword": [
         "betacloud",
-        "zerotier.com",
-        "xiaoyaliu"
+        "zerotier.com"
       ]
     },
     {
@@ -25,6 +24,8 @@
         "registry-1.docker.io",
         "googleapis.com",
         "googleapis.cn",
+        "xiaoya.pro",
+        "fanart.tv",
         "xiaoya.pro"
       ]
     }
