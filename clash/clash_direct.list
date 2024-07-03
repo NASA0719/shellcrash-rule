@@ -7,7 +7,7 @@ payload:
   - DOMAIN,metacubexd.pages.dev
   - DOMAIN,stable.dl.unraid.net
   - DOMAIN,controlplane.tailscale.com
-	- DOMAIN,cdn.tailwindcss.com
+  - DOMAIN,cdn.tailwindcss.com
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
