@@ -8,6 +8,7 @@ payload:
   - DOMAIN,stable.dl.unraid.net
   - DOMAIN,controlplane.tailscale.com
   - DOMAIN,cdn.tailwindcss.com
+  - DOMAIN,www.icc2022.com
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
