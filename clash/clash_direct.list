@@ -9,6 +9,7 @@ payload:
   - DOMAIN,controlplane.tailscale.com
   - DOMAIN,cdn.tailwindcss.com
   - DOMAIN,www.icc2022.com
+  - DOMAIN,www.tefuir0829.cn
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
