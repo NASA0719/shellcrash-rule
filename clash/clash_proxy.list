@@ -14,6 +14,7 @@ payload:
   - DOMAIN,icyou.eu.org
   - DOMAIN,lanyuewan.cn
   - DOMAIN,acg.rip
+  - DOMAIN,en.btdig.com
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
