@@ -16,6 +16,7 @@ payload:
   - DOMAIN,acg.rip
   - DOMAIN,en.btdig.com
   - DOMAIN,www.sehuatang.org
+  - DOMAIN,alys.biubush.cn
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
