@@ -22,22 +22,7 @@ payload:
   - DOMAIN,ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
-  # 小雅emby服务器
-  - DOMAIN,emby.xiaoya.pro
-  - DOMAIN,icyou.eu.org
-  - DOMAIN,lanyuewan.cn
-  - DOMAIN,emby.8.net.co
-  - DOMAIN,emby.raydoom.tk
-  - DOMAIN,emby.kaiserver.uk
-  - DOMAIN,embyxiaoya.laogl.top
-  - DOMAIN,emby-data.raydoom.tk
-  - DOMAIN,emby-data.5168168.xyz
-  - DOMAIN,emby-data.ermaokj.com
-  - DOMAIN,emby-data.tmxy.pp.ua
-  - DOMAIN,emby-data.poxi1221.eu.org
-  - DOMAIN,emby-data.ermaokj.cn
-  - DOMAIN,emby-data.bdbd.fun
-  - DOMAIN,emby-data.wwwh.eu.org
+  - DOMAIN,pt.btschool.club
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
