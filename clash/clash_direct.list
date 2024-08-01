@@ -23,6 +23,8 @@ payload:
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
   - DOMAIN,pt.btschool.club
+  - DOMAIN,www.haidan.video
+
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
