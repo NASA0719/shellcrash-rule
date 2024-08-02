@@ -25,7 +25,7 @@ payload:
   - DOMAIN,pt.btschool.club
   - DOMAIN,www.haidan.video
 
-
+  - DOMAIN-KEYWORD,qingwa
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
