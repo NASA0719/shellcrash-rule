@@ -23,6 +23,7 @@ payload:
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
   - DOMAIN,www.haidan.video
+  - DOMAIN,pt.btschool.club
 
   - DOMAIN-KEYWORD,qingwa
   - DOMAIN-KEYWORD,argotunnel.com
