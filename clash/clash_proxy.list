@@ -18,7 +18,7 @@ payload:
   - DOMAIN,www.sehuatang.org
   - DOMAIN,alys.biubush.cn
   - DOMAIN,pt.btschool.club
-
+  - DOMAIN,cdn.bootcdn.net
 
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
