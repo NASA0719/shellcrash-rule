@@ -22,9 +22,10 @@ payload:
   - DOMAIN,ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
-  - DOMAIN,www.haidan.video
+  # PT站
+  - DOMAIN-SUFFIX,haidan.video
   - DOMAIN,pt.btschool.club
-
+  - DOMAIN,tracker.carpt.net
 
   - DOMAIN-KEYWORD,qingwa
   - DOMAIN-KEYWORD,argotunnel.com
