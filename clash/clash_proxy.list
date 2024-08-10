@@ -20,6 +20,9 @@ payload:
   - DOMAIN,pt.btschool.club
   - DOMAIN,cdn.bootcdn.net
 
+  # PT
+  - DOMAIN,www.pttime.org
+
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
