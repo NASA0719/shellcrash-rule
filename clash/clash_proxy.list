@@ -21,7 +21,7 @@ payload:
   - DOMAIN,cdn.bootcdn.net
 
   # PT
-  - DOMAIN,www.pttime.org
+  #- DOMAIN,www.pttime.org
 
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
