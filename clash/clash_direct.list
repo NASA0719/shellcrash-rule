@@ -8,8 +8,8 @@ payload:
   - DOMAIN,stable.dl.unraid.net
   - DOMAIN,controlplane.tailscale.com
   - DOMAIN,cdn.tailwindcss.com
-  - DOMAIN,www.icc2022.com
   - DOMAIN,www.tefuir0829.cn
+  - DOMAIN,www.qweather.com
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
@@ -27,6 +27,7 @@ payload:
 #  - DOMAIN,pt.btschool.club
 #  - DOMAIN,tracker.carpt.net
 #  - DOMAIN-KEYWORD,qingwa
+   - DOMAIN,www.icc2022.com
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
