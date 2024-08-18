@@ -26,6 +26,7 @@ payload:
   - DOMAIN,pt.btschool.club
   - DOMAIN,tracker.carpt.net
   - DOMAIN-KEYWORD,qingwa
+  - DOMAIN,www.icc2022.com
 
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
