@@ -21,13 +21,13 @@ payload:
   - DOMAIN,cdn.bootcdn.net
 
   # PT
-  - DOMAIN,www.pttime.org
+  - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
-  - DOMAIN,pt.btschool.club
-  - DOMAIN,tracker.carpt.net
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,carpt.net
   - DOMAIN-KEYWORD,qingwa
-  - DOMAIN,www.icc2022.com
-  - DOMAIN,t.tosky.club
+  - DOMAIN-KEYWORD,icc2022
+  - DOMAIN-SUFFIX,tosky.club
 
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
