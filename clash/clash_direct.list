@@ -24,7 +24,7 @@ payload:
   - DOMAIN,ip-api.com
   # PT站
 #  - DOMAIN-SUFFIX,haidan.video
-#  - DOMAIN,pt.btschool.club
+  - DOMAIN,pt.btschool.club
 #  - DOMAIN,tracker.carpt.net
 #  - DOMAIN-KEYWORD,qingwa
 
