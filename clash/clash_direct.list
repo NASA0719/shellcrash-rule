@@ -23,10 +23,13 @@ payload:
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
   # PT站
-#  - DOMAIN-SUFFIX,haidan.video
-#  - DOMAIN,pt.btschool.club
-#  - DOMAIN,tracker.carpt.net
-#  - DOMAIN-KEYWORD,qingwa
+  - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,haidan.video
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,carpt.net
+  - DOMAIN-KEYWORD,qingwa
+  - DOMAIN-KEYWORD,icc2022
+  - DOMAIN-SUFFIX,tosky.club
 
 
   - DOMAIN-KEYWORD,argotunnel.com
