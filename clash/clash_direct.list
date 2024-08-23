@@ -10,6 +10,8 @@ payload:
   - DOMAIN,cdn.tailwindcss.com
   - DOMAIN,www.tefuir0829.cn
   - DOMAIN,www.qweather.com
+  - DOMAIN,cip.cc
+
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
