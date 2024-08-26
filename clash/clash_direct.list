@@ -33,7 +33,7 @@ payload:
  # - DOMAIN-KEYWORD,icc2022
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tosky.club
-
+  - DOMAIN-SUFFIX,kufei.org
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
