@@ -42,8 +42,8 @@ payload:
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,opensubtitles.com
   # VPS
-  #- DOMAIN-SUFFIX,000719.xyz
-  #- IP-CIDR,107.173.199.239
+  - DOMAIN-SUFFIX,000719.xyz
+  - IP-CIDR,107.173.199.239
 
   - IP-CIDR,103.28.68.83/25
   - IP-CIDR,127.0.0.0/8
