@@ -29,10 +29,6 @@ payload:
   - DOMAIN-KEYWORD,icc2022
   - DOMAIN-SUFFIX,tosky.club
 
-  # VPS
-  - DOMAIN-SUFFIX,000719.xyz
-  - IP-CIDR,107.173.199.239
-
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,registry-1.docker.io
