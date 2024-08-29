@@ -28,6 +28,7 @@ payload:
   - DOMAIN-KEYWORD,qingwa
   - DOMAIN-KEYWORD,icc2022
   - DOMAIN-SUFFIX,tosky.club
+  - DOMAIN,fsm.name
 
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
