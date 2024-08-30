@@ -24,7 +24,11 @@ payload:
   - DOMAIN,ipapi.co
   - DOMAIN,ip.sb
   - DOMAIN,ip-api.com
+
   # PT站
+  # 馒头
+  - DOMAIN,kp.m-team.cc
+
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
   - DOMAIN-SUFFIX,btschool.club
