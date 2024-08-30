@@ -27,9 +27,10 @@ payload:
 
   # PT站
   # 馒头
-  - DOMAIN,kp.m-team.cc
   - DOMAIN,tracker.m-team.cc
-  - DOMAIN-KEYWORD,m-team
+  - DOMAIN,tra1.m-team.cc
+  - DOMAIN,tracker.m-team.io
+  - DOMAIN,tra1.m-team.io
 
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
