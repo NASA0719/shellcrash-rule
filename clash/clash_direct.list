@@ -11,7 +11,7 @@ payload:
   - DOMAIN,www.tefuir0829.cn
   - DOMAIN,www.qweather.com
   - DOMAIN,cip.cc
-
+  - DOMAIN,index.docker.teiron-inc.cn
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
