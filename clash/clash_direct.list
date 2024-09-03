@@ -11,8 +11,11 @@ payload:
   - DOMAIN,www.tefuir0829.cn
   - DOMAIN,www.qweather.com
   - DOMAIN,cip.cc
+  # docker
   - DOMAIN,index.docker.teiron-inc.cn
   - DOMAIN-SUFFIX,nat.tf
+  - DOMAIN,docker.1panel.live
+  - DOMAIN,hub.rat.dev
 
 
   # ddnsto
