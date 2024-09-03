@@ -12,6 +12,8 @@ payload:
   - DOMAIN,www.qweather.com
   - DOMAIN,cip.cc
   - DOMAIN,index.docker.teiron-inc.cn
+  - DOMAIN-SUFFIX,nat.tf
+
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
