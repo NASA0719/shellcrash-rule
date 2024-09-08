@@ -55,6 +55,9 @@ payload:
   - DOMAIN-SUFFIX,hdf.world
   - DOMAIN-SUFFIX,hdarea.club
   - DOMAIN-SUFFIX,bitbr.cc
+  # FSM
+  - DOMAIN,nextpt.net
+  - DOMAIN,connects.icu
 
 
   - DOMAIN-KEYWORD,argotunnel.com
