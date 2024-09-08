@@ -40,10 +40,12 @@ payload:
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,carpt.net
   - DOMAIN-KEYWORD,qingwa
- # - DOMAIN-KEYWORD,icc2022
+  - DOMAIN-KEYWORD,icc2022
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tosky.club
   - DOMAIN-SUFFIX,kufei.org
+  - DOMAIN-SUFFIX,hdtime.org
+
 
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
