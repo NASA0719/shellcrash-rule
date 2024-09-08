@@ -45,6 +45,16 @@ payload:
   - DOMAIN-SUFFIX,tosky.club
   - DOMAIN-SUFFIX,kufei.org
   - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN-SUFFIX,zhuque.in
+  - DOMAIN-SUFFIX,zmpt.cc
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,audionews.org
+  - DOMAIN-SUFFIX,hdpt.xyz
+  - DOMAIN-SUFFIX,hawke.uno
+  - DOMAIN-SUFFIX,hdvideo
+  - DOMAIN-SUFFIX,hdf.world
+  - DOMAIN-SUFFIX,hdarea.club
+  - DOMAIN-SUFFIX,bitbr.cc
 
 
   - DOMAIN-KEYWORD,argotunnel.com
