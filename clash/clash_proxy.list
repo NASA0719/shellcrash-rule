@@ -29,7 +29,7 @@ payload:
   - DOMAIN-KEYWORD,icc2022
   - DOMAIN-SUFFIX,tosky.club
   - DOMAIN,fsm.name
-  - DOMAIN,hdtime.org
+  #- DOMAIN,hdtime.org
 
   # 馒头
   - DOMAIN,kp.m-team.cc
