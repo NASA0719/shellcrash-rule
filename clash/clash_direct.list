@@ -44,7 +44,7 @@ payload:
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-SUFFIX,tosky.club
   - DOMAIN-SUFFIX,kufei.org
-  - DOMAIN-SUFFIX,hdtime.org
+  - DOMAIN,tracker.hdtime.org
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,zmpt.cc
   - DOMAIN-SUFFIX,rousi.zip
