@@ -59,7 +59,7 @@ payload:
   - DOMAIN,nextpt.net
   - DOMAIN,connects.icu
 
-
+  - DOMAIN,zh.infobyip.com
   - DOMAIN-KEYWORD,argotunnel.com
   - DOMAIN-SUFFIX,cloud.189.cn
   - DOMAIN-SUFFIX,mfiles.maokebing.com
