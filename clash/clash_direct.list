@@ -58,6 +58,8 @@ payload:
   # FSM
   - DOMAIN,nextpt.net
   - DOMAIN,connects.icu
+  # 麒麟
+  - DOMAIN,t.hdkylin.work
 
   - DOMAIN,zh.infobyip.com
   - DOMAIN-KEYWORD,argotunnel.com
