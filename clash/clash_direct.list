@@ -60,6 +60,8 @@ payload:
   - DOMAIN,connects.icu
   # 麒麟
   - DOMAIN,t.hdkylin.work
+  #野马pt
+  - DOMAIN-SUFFIX,yemapt.org
 
   - DOMAIN,zh.infobyip.com
   - DOMAIN-KEYWORD,argotunnel.com
