@@ -74,7 +74,7 @@ payload:
   - DOMAIN-SUFFIX,opensubtitles.com
   # VPS
   - DOMAIN-SUFFIX,000719.xyz
-  - IP-CIDR,107.173.199.239
+  - IP-CIDR,107.173.199.239/25
 
   # cloudflare
   #- IP#-CIDR,173.245.48.0/20
