@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,nat.tf
   - DOMAIN,docker.1panel.live
   - DOMAIN,hub.rat.dev
+  - DOMAIN,cdn.staticfile.org
 
 
   # ddnsto
