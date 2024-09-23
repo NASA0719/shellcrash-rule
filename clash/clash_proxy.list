@@ -19,6 +19,7 @@ payload:
   - DOMAIN,alys.biubush.cn
   - DOMAIN,pt.btschool.club
   - DOMAIN,cdn.bootcdn.net
+  - IP-CIDR,107.173.199.239/25
 
   # PT
   - DOMAIN-SUFFIX,pttime.org
