@@ -35,6 +35,8 @@ payload:
   # 馒头
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m-team.io
+  #象站
+  - DOMAIN-SUFFIX,ptvicomo.net
 
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
