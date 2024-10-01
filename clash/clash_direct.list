@@ -39,6 +39,8 @@ payload:
   - DOMAIN-SUFFIX,ptvicomo.net
   # 猪猪
   - DOMAIN-SUFFIX,piggo.me
+  # 大青虫
+  - DOMAIN-SUFFIX,cyanbug.net
 
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
