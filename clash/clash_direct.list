@@ -17,7 +17,7 @@ payload:
   - DOMAIN,docker.1panel.live
   - DOMAIN,hub.rat.dev
   - DOMAIN,cdn.staticfile.org
-  - DOMAIN,hdhive.online
+  #- DOMAIN,hdhive.online
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
