@@ -18,6 +18,7 @@ payload:
   - DOMAIN,hub.rat.dev
   - DOMAIN,cdn.staticfile.org
   #- DOMAIN,hdhive.online
+  - DOMAIN,docker.1ms.run 
 
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
