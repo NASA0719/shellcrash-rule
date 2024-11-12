@@ -42,6 +42,8 @@ payload:
   - DOMAIN-SUFFIX,piggo.me
   # 大青虫
   - DOMAIN-SUFFIX,cyanbug.net
+  # 柠檬
+  - DOMAIN-SUFFIX,lemonhd.club
 
   - DOMAIN-SUFFIX,pttime.org
   - DOMAIN-SUFFIX,haidan.video
