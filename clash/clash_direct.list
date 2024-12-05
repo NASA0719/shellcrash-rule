@@ -19,7 +19,7 @@ payload:
   - DOMAIN,cdn.staticfile.org
   #- DOMAIN,hdhive.online
   - DOMAIN,docker.1ms.run 
-  - DOMAIN,tracker.piggo.me
+
   # ddnsto
   - DOMAIN,tunnel.ddnsto.com
   - DOMAIN,tunnel.kooldns.cn
