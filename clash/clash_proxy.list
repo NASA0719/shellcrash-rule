@@ -23,18 +23,7 @@ payload:
   - DOMAIN,hdhive.online
 
   # PT
-  - DOMAIN-SUFFIX,pttime.org
-  - DOMAIN-SUFFIX,haidan.video
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,carpt.net
-  - DOMAIN-KEYWORD,qingwa
-  - DOMAIN-SUFFIX,icc2022.com
-  - DOMAIN-SUFFIX,tosky.club
-  - DOMAIN,fsm.name
-  #- DOMAIN,hdtime.org
-
-  # 馒头
-  - DOMAIN,kp.m-team.cc
+  - DOMAIN,piggo.me
 
   - DOMAIN,docker.ketches.cn
   - DOMAIN-SUFFIX,auth.docker.io
