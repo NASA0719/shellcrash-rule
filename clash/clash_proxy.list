@@ -22,9 +22,6 @@ payload:
   - IP-CIDR,107.173.199.239/25
   - DOMAIN,hdhive.online
 
-  # PT
-  - DOMAIN,piggo.me
-
   - DOMAIN,docker.ketches.cn
   - DOMAIN-SUFFIX,auth.docker.io
   - DOMAIN-SUFFIX,hub.docker.com
