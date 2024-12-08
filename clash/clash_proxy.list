@@ -1,34 +1,33 @@
-payload:
-  - DOMAIN-KEYWORD,betacloud
-  - DOMAIN-KEYWORD,xiaoya.pro
-  - DOMAIN-KEYWORD,zerotier.com
-  - DOMAIN-KEYWORD,xiaoyaliu
-  - DOMAIN-KEYWORD,chat.tinycms.xyz
-  - DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
-  - DOMAIN,freefrp.net
-  - DOMAIN,www.omdbapi.com
-  - DOMAIN,api.trakt.tv
-  - DOMAIN,api.bgm.tv
-  - DOMAIN,private.omdbapi.com
-  - DOMAIN,emby.xiaoya.pro
-  - DOMAIN,icyou.eu.org
-  - DOMAIN,lanyuewan.cn
-  - DOMAIN,acg.rip
-  - DOMAIN,en.btdig.com
-  - DOMAIN,www.sehuatang.org
-  - DOMAIN,alys.biubush.cn
-  - DOMAIN,pt.btschool.club
-  - DOMAIN,cdn.bootcdn.net
-  - IP-CIDR,107.173.199.239/25
-  - DOMAIN,hdhive.online
+DOMAIN-KEYWORD,betacloud
+DOMAIN-KEYWORD,xiaoya.pro
+DOMAIN-KEYWORD,zerotier.com
+DOMAIN-KEYWORD,xiaoyaliu
+DOMAIN-KEYWORD,chat.tinycms.xyz
+DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
+DOMAIN,freefrp.net
+DOMAIN,www.omdbapi.com
+DOMAIN,api.trakt.tv
+DOMAIN,api.bgm.tv
+DOMAIN,private.omdbapi.com
+DOMAIN,emby.xiaoya.pro
+DOMAIN,icyou.eu.org
+DOMAIN,lanyuewan.cn
+DOMAIN,acg.rip
+DOMAIN,en.btdig.com
+DOMAIN,www.sehuatang.org
+DOMAIN,alys.biubush.cn
+DOMAIN,pt.btschool.club
+DOMAIN,cdn.bootcdn.net
+IP-CIDR,107.173.199.239/25
+DOMAIN,hdhive.online
 
-  - DOMAIN,docker.ketches.cn
-  - DOMAIN-SUFFIX,auth.docker.io
-  - DOMAIN-SUFFIX,hub.docker.com
-  - DOMAIN-SUFFIX,registry-1.docker.io
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,fanart.tv
+DOMAIN,docker.ketches.cn
+DOMAIN-SUFFIX,auth.docker.io
+DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,registry-1.docker.io
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,fanart.tv
 
 
 
