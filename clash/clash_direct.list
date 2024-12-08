@@ -11,6 +11,7 @@ DOMAIN,www.tefuir0829.cn
 DOMAIN,www.qweather.com
 DOMAIN,cip.cc
 DOMAIN,api.cloudflare.com
+DOMAIN,gh.monlor.com
 # docker
 DOMAIN,index.docker.teiron-inc.cn
 DOMAIN-SUFFIX,nat.tf
