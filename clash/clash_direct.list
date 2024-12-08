@@ -10,6 +10,7 @@ DOMAIN,cdn.tailwindcss.com
 DOMAIN,www.tefuir0829.cn
 DOMAIN,www.qweather.com
 DOMAIN,cip.cc
+DOMAIN,api.cloudflare.com
 # docker
 DOMAIN,index.docker.teiron-inc.cn
 DOMAIN-SUFFIX,nat.tf
