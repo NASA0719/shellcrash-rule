@@ -20,6 +20,7 @@ DOMAIN,pt.btschool.club
 DOMAIN,cdn.bootcdn.net
 IP-CIDR,107.173.199.239/25
 DOMAIN,hdhive.online
+DOMAIN,movie-pilot.org
 
 DOMAIN,docker.ketches.cn
 DOMAIN-SUFFIX,auth.docker.io
