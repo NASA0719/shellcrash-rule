@@ -30,8 +30,9 @@ DOMAIN,www.tocmcc.cn
 DOMAIN,www.ddnsto.com
 DOMAIN,frp.maya2012.com
 DOMAIN,ipapi.co
-DOMAIN,ip.sb
+DOMAIN-SUFFIX,ip.sb
 DOMAIN,ip-api.com
+DOMAIN-SUFFIX,ip138.com
 
 # PT站
 DOMAIN-KEYWORD,announce
