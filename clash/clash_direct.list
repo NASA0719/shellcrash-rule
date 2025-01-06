@@ -20,8 +20,8 @@ DOMAIN,hub.rat.dev
 DOMAIN,cdn.staticfile.org
 #- DOMAIN,hdhive.online
 DOMAIN,docker.1ms.run 
-DOMAIN-SUFFIX,www.cloudflare.com
-DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,iappcenter.ms
 DOMAIN-SUFFIX,dler.cloud
 
 # ddnsto
