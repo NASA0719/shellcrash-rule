@@ -13,6 +13,8 @@ DOMAIN,cip.cc
 DOMAIN,api.cloudflare.com
 DOMAIN,gh.monlor.com
 DOMAIN,canyouseeme.org
+DOMAIN,connect.emby.media
+
 # docker
 DOMAIN,index.docker.teiron-inc.cn
 DOMAIN-SUFFIX,nat.tf
