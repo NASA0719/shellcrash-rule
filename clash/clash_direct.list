@@ -12,6 +12,7 @@ DOMAIN,www.qweather.com
 DOMAIN,cip.cc
 DOMAIN,api.cloudflare.com
 DOMAIN,gh.monlor.com
+DOMAIN,canyouseeme.org
 # docker
 DOMAIN,index.docker.teiron-inc.cn
 DOMAIN-SUFFIX,nat.tf
