@@ -14,7 +14,8 @@ DOMAIN,api.cloudflare.com
 DOMAIN,gh.monlor.com
 DOMAIN,canyouseeme.org
 DOMAIN,connect.emby.media
-
+DOMAIN,www.ssiic.com
+DOMAIN,stor.picx.cx
 # docker
 DOMAIN,index.docker.teiron-inc.cn
 DOMAIN-SUFFIX,nat.tf
@@ -129,6 +130,7 @@ DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,icc2022.de
+DOMAIN-SUFFIX,icc2022.com
 DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,j99.info
@@ -160,6 +162,7 @@ DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,ourbits.club
+DOMAIN-SUFFIX,ourhelp.club
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,pornbits.net
