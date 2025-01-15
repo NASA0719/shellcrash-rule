@@ -24,7 +24,7 @@ DOMAIN,hub.rat.dev
 DOMAIN,cdn.staticfile.org
 #- DOMAIN,hdhive.online
 DOMAIN,docker.1ms.run 
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,iappcenter.ms
 DOMAIN-SUFFIX,dler.cloud
 
