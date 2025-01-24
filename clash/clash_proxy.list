@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,registry-1.docker.io
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,dler.cloud
 
 DOMAIN,airav.io
 DOMAIN,freejavbt.com
