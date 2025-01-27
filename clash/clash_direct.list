@@ -26,6 +26,7 @@ DOMAIN,cdn.staticfile.org
 DOMAIN,docker.1ms.run 
 #DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,iappcenter.ms
+DOMAIN,ipv4.ipleak.net
 
 # ddnsto
 DOMAIN,tunnel.ddnsto.com
