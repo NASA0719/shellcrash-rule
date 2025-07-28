@@ -22,7 +22,7 @@ payload:
   - DOMAIN,hdhive.online
   - DOMAIN,movie-pilot.org
   - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,000719.xyz
+  #- DOMAIN-SUFFIX,000719.xyz
 
   - DOMAIN,docker.ketches.cn
   - DOMAIN-SUFFIX,auth.docker.io
