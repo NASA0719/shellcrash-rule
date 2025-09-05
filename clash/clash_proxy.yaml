@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,dler.cloud
+  - DOMAIN-SUFFIX,ymawv.la
 
   - DOMAIN,airav.io
   - DOMAIN,freejavbt.com
