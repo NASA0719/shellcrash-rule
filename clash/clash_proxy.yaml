@@ -43,3 +43,5 @@ payload:
   - DOMAIN,7mmtv.sx
 
   - IP-CIDR,107.173.199.239/25
+  - IP-CIDR,124.244.194.192/24
+
