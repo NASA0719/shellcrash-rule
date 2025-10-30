@@ -210,6 +210,10 @@ payload:
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,opensubtitles.com
+  - DOMAIN-SUFFIX,wtzs1.q28qe.net
+  - DOMAIN-SUFFIX,46dz.bgdy3.net
+  - DOMAIN-SUFFIX,iyvg.e2pzs.net
+  - DOMAIN-SUFFIX,vzzr.qnc8.net
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
