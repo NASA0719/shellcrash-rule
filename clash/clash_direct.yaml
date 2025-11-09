@@ -214,6 +214,8 @@ payload:
   - DOMAIN-SUFFIX,46dz.bgdy3.net
   - DOMAIN-SUFFIX,iyvg.e2pzs.net
   - DOMAIN-SUFFIX,vzzr.qnc8.net
+  - DOMAIN-SUFFIX,acgnfl.com
+  - DOMAIN-SUFFIX,vvvv.host
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
