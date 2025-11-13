@@ -216,6 +216,7 @@ payload:
   - DOMAIN-SUFFIX,vzzr.qnc8.net
   - DOMAIN-SUFFIX,acgnfl.com
   - DOMAIN-SUFFIX,vvvv.host
+  - DOMAIN-SUFFIX,feishu.cn
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
