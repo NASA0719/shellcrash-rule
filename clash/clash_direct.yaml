@@ -217,6 +217,7 @@ payload:
   - DOMAIN-SUFFIX,acgnfl.com
   - DOMAIN-SUFFIX,vvvv.host
   - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,deepseek.com
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
