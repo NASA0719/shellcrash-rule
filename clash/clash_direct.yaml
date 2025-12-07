@@ -219,6 +219,7 @@ payload:
   - DOMAIN-SUFFIX,vvvv.host
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN,api.tunefree.fun
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
