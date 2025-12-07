@@ -220,6 +220,7 @@ payload:
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN,api.tunefree.fun
+  - DOMAIN,music-dl.sayqz.com
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
