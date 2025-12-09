@@ -33,7 +33,7 @@ payload:
   - DOMAIN-SUFFIX,fanart.tv
   - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,ymawv.la
-   - DOMAIN-SUFFIX,ffaoa.com
+  - DOMAIN-SUFFIX,ffaoa.com
 
   - DOMAIN,airav.io
   - DOMAIN,freejavbt.com
@@ -41,8 +41,6 @@ payload:
   - DOMAIN,www.avbase.net
   - DOMAIN,www.jav321.com
   - DOMAIN,7mmtv.sx
-  - DOMAIN,tu.ymawv.la
-  - DOMAIN,ttou.j03og.app
 
   - IP-CIDR,107.173.199.239/25
   - IP-CIDR,124.244.194.192/24
