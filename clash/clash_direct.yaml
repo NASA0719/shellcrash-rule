@@ -223,6 +223,7 @@ payload:
   - DOMAIN,music-dl.sayqz.com
   - DOMAIN,tu.ymawv.la
   - DOMAIN,ttou.j03og.app
+  - DOMAIN-SUFFIX,66666.host
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
