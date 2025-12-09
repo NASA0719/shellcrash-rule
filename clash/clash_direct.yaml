@@ -221,6 +221,8 @@ payload:
   - DOMAIN-SUFFIX,deepseek.com
   - DOMAIN,api.tunefree.fun
   - DOMAIN,music-dl.sayqz.com
+  - DOMAIN,tu.ymawv.la
+  - DOMAIN,ttou.j03og.app
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
