@@ -224,8 +224,9 @@ payload:
   - DOMAIN,tu.ymawv.la
   - DOMAIN,ttou.j03og.app
   - DOMAIN-SUFFIX,66666.host
+  - DOMAIN-SUFFIX,aliyuncs.com
 
-  - DOMAIN-REGEX,^javdb\d+\.com$
+  - DOMAIN-R- DOMAIN-SUFFIX,EGEX,^javdb\d+\.com$
 
   - DOMAIN-SUFFIX,000719.xyz
   - IP-CIDR,114.134.184.198/25
