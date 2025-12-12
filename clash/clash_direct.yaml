@@ -225,6 +225,7 @@ payload:
   - DOMAIN,ttou.j03og.app
   - DOMAIN-SUFFIX,66666.host
   - DOMAIN-SUFFIX,aliyuncs.com
+  - DOMAIN-SUFFIX,qoder.sh
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
