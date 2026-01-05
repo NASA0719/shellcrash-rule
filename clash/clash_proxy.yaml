@@ -4,7 +4,7 @@ payload:
   - DOMAIN-KEYWORD,zerotier.com
   - DOMAIN-KEYWORD,xiaoyaliu
   - DOMAIN-KEYWORD,chat.tinycms.xyz
-  - DOMAIN,messense-aliyundrive-webdav-backendrefresh-token-ucs0wn.streamlit.app
+  - DOMAIN-SUFFIX,streamlit.app
   - DOMAIN,freefrp.net
   - DOMAIN,www.omdbapi.com
   - DOMAIN,api.trakt.tv
@@ -34,6 +34,8 @@ payload:
   - DOMAIN-SUFFIX,dler.cloud
   - DOMAIN-SUFFIX,ymawv.la
   - DOMAIN-SUFFIX,ffaoa.com
+  - DOMAIN,tu.ymawv.la
+  - DOMAIN,ttou.j03og.app
 
   - DOMAIN,airav.io
   - DOMAIN,freejavbt.com
