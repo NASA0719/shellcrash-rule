@@ -226,6 +226,8 @@ payload:
   - DOMAIN-SUFFIX,aliyuncs.com
   - DOMAIN-SUFFIX,qoder.sh
   - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,gh-proxy.com
+  - DOMAIN-SUFFIX,gh-proxy.org
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
