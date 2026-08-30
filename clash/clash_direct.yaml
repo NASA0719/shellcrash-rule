@@ -228,6 +228,7 @@ payload:
   - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,gh-proxy.org
+  - DOMAIN-SUFFIX,ymkizv84.work
 
   - DOMAIN-REGEX,^javdb\d+\.com$
 
