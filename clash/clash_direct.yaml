@@ -17,6 +17,8 @@ payload:
   - DOMAIN,connect.emby.media
   - DOMAIN,www.ssiic.com
   - DOMAIN,stor.picx.cx
+  - DOMAIN,xsus.cloud
+  - DOMAIN,xsus2.com
 
   - DOMAIN,index.docker.teiron-inc.cn
   - DOMAIN-SUFFIX,nat.tf
